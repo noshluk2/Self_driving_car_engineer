@@ -18,7 +18,10 @@ From Zero to Self Driving Car Engineer .
 - Driving Node
 - Circular Motion Node
 
-**Week 3: Differential Drive Kinematics and Control**
+**Week 3 and 4: Differential Drive Kinematics and Control**
 - Feed back Proportional Controlling 
 - Go to Goal Behaviour
+
+**Week 5: Ackerman Drive**
+
 - Kinematics to Velocity and Acceleration Controller
